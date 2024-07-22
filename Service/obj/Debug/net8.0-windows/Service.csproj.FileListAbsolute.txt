@@ -1,0 +1,15 @@
+F:\Projects c#\CartSysTestePrático\Service\bin\Debug\net8.0-windows\Service.deps.json
+F:\Projects c#\CartSysTestePrático\Service\bin\Debug\net8.0-windows\Service.dll
+F:\Projects c#\CartSysTestePrático\Service\bin\Debug\net8.0-windows\Service.pdb
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.csproj.AssemblyReference.cache
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.AssemblyInfoInputs.cache
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.AssemblyInfo.cs
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.csproj.CoreCompileInputs.cache
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.csproj.CopyComplete
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.dll
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\refint\Service.dll
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\Service.pdb
+F:\Projects c#\CartSysTestePrático\Service\obj\Debug\net8.0-windows\ref\Service.dll
+F:\Projects c#\CartSysTestePrático\Service\bin\Debug\net8.0-windows\Data.dll
+F:\Projects c#\CartSysTestePrático\Service\bin\Debug\net8.0-windows\Data.pdb
