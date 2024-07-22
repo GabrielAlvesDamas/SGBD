@@ -7129,11 +7129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects c#\\CartSysTestePrático\\Data\\Data.csproj",
+      "projectUniqueName": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "F:\\Projects c#\\CartSysTestePrático\\Data\\Data.csproj",
+      "projectPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects c#\\CartSysTestePrático\\Data\\obj\\",
+      "outputPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

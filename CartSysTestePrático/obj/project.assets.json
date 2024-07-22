@@ -7174,11 +7174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects c#\\CartSysTestePrático\\CartSysTestePrático\\View.csproj",
+      "projectUniqueName": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\CartSysTestePrático\\View.csproj",
       "projectName": "View",
-      "projectPath": "F:\\Projects c#\\CartSysTestePrático\\CartSysTestePrático\\View.csproj",
+      "projectPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\CartSysTestePrático\\View.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects c#\\CartSysTestePrático\\CartSysTestePrático\\obj\\",
+      "outputPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\CartSysTestePrático\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7195,11 +7195,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "F:\\Projects c#\\CartSysTestePrático\\Data\\Data.csproj": {
-              "projectPath": "F:\\Projects c#\\CartSysTestePrático\\Data\\Data.csproj"
+            "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Data\\Data.csproj": {
+              "projectPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Data\\Data.csproj"
             },
-            "F:\\Projects c#\\CartSysTestePrático\\Service\\Service.csproj": {
-              "projectPath": "F:\\Projects c#\\CartSysTestePrático\\Service\\Service.csproj"
+            "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Service\\Service.csproj": {
+              "projectPath": "F:\\Projects c#\\CartSysTestePrático\\SGBD\\Service\\Service.csproj"
             }
           }
         }
